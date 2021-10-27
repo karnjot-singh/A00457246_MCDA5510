@@ -1,0 +1,16 @@
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\bin\Debug\net5.0\assignmentdontnet.exe
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\bin\Debug\net5.0\assignmentdontnet.deps.json
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\bin\Debug\net5.0\assignmentdontnet.runtimeconfig.json
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\bin\Debug\net5.0\assignmentdontnet.runtimeconfig.dev.json
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\bin\Debug\net5.0\assignmentdontnet.dll
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\bin\Debug\net5.0\ref\assignmentdontnet.dll
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\bin\Debug\net5.0\assignmentdontnet.pdb
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\assignmentdontnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\assignmentdontnet.AssemblyInfoInputs.cache
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\assignmentdontnet.AssemblyInfo.cs
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\assignmentdontnet.csproj.CoreCompileInputs.cache
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\assignmentdontnet.dll
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\ref\assignmentdontnet.dll
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\assignmentdontnet.pdb
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\assignmentdontnet.genruntimeconfig.cache
+C:\Users\karnj\source\repos\assignmentdontnet\assignmentdontnet\obj\Debug\net5.0\assignmentdontnet.csproj.AssemblyReference.cache
